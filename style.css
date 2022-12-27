@@ -69,6 +69,7 @@ body {
 }
 
 #logo {
-    width: 50%;
+    width: 100%;
     height: auto;
+    margin: 120px 0px;
 }
